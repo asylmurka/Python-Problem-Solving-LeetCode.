@@ -1,8 +1,10 @@
 
 # 🐍 Python Problem Solving | LeetCode
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Platform-LeetCode-orange?logo=leetcode&logoColor=white](https://img.shields.io/badge/Platform-LeetCode-orange?logo=leetcode\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-purple](https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-purple)" />   \<img src="[https://img.shields.io/badge/Status-Learning-success](https://img.shields.io/badge/Status-Learning-success)" /> \</p>
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?logo=leetcode)
+![Algorithms](https://img.shields.io/badge/Focus-Algorithms-purple)
+![Learning](https://img.shields.io/badge/Status-Learning-success)
 ## 🚀 About This Repository
 
 Welcome to my **Python Problem Solving** repository!
