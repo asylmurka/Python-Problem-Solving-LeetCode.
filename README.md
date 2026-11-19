@@ -63,10 +63,8 @@ My goal is to develop strong problem-solving abilities, understand data structur
 
 ---
 
-\<p align="center">
-&#x20; \<b>Learn. Practice. Improve. Repeat. 🚀\</b>
-\</p>
+---
 
-\<p align="center">
-&#x20; \<i>One problem at a time.\</i>
-\</p>
+## 🚀 Learn. Practice. Improve. Repeat.
+
+*One problem at a time.*
